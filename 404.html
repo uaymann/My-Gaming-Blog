@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 - Page Not Found</title>
+    <link rel="stylesheet" href="webstyle.css">
+    <style>
+        .error-container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: left;
+            max-width: 800px;
+            margin: 105px auto;
+            gap: 40px;
+        }
+
+        .error-image {
+            max-width: 50%;
+            border-radius: 15px;
+        }
+
+        .error-text {
+            max-width: 50%;
+        }
+
+        .error-message {
+            font-size: 4rem;
+            font-weight: bold;
+            color: #4C2719;
+        }
+
+        .error-advice {
+            font-size: 1.2rem;
+            margin-top: 10px;
+        }
+
+        .error-nav {
+            margin-top: 20px;
+        }
+
+        .error-nav a {
+            display: inline-block;
+            text-decoration: none;
+            color: white;
+            background: #899259;
+            padding: 10px 20px;
+            border-radius: 1000px;
+            font-size: 1.2rem;
+            margin: 5px;
+            transition: all 0.3s ease-in-out;
+        }
+
+        .error-nav a:hover {
+            color: white;
+            background: #4C2719;
+        }
+
+        .contact-info {
+            margin-top: 30px;
+            font-size: 1rem;
+        }
+
+        .contact-info a {
+            color: #899259;
+            font-weight: bold;
+            text-decoration: none;
+        }
+
+        .contact-info a:hover {
+            transition: all .3s ease-in-out;
+            color: #4C2719;
+        }
+    </style>
+</head>
+<body>
+
+    <nav>
+        <ul class="nav-menu">
+            <li><a href="home.html">Home</a></li>
+            <li><a href="one.html">Story Games</a></li>
+            <li><a href="two.html">Cozy Games</a></li>
+        </ul>
+    </nav>
+
+    <main class="error-container">
+        <img src="images/butterflylis.jpg" alt="Life is strange butterfly" class="error-image">
+        <div class="error-text">
+            <div class="error-message">Game Over!</div>
+            <p class="error-advice">It looks like you've wandered into an unknown level. No worries, you can respawn to home base below:</p>
+
+            <div class="error-nav">
+                <a href="home.html">Return Home</a>
+            </div>
+
+            <p class="contact-info"><b>Need help? Contact</b> <a href="mailto:uaymann@uoguelph.ca">uaymann@uoguelph.ca</a></p>
+        </div>
+    </main>
+
+    <footer>
+        <p>Game suggestions? Contact me: uaymann@uoguelph.ca<br> ୨୧ <br>&copy; 2025 My Gaming Blog. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
