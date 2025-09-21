@@ -8,7 +8,7 @@ It’s a simple blog where I share my gaming experiences and write reviews of ga
 Since this is a static HTML site, there’s no installation required.  
 To view the blog:
 1. Download or clone this repository.
-2. Open the `index.html` (home page) file in any modern web browser.
+2. Open the `home.html` (home page) file in any modern web browser.
 3. Navigate through the blog using the menu links provided.
 
 ## 🎮 Purpose
