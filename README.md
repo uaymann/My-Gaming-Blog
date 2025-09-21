@@ -4,7 +4,7 @@
 This is my first HTML-based website, created as part of my web design practice.  
 It’s a simple blog where I share my gaming experiences and write reviews of games I’ve played.  
 
-## 🚀 How to Open
+## How to Open
 Since this is a static HTML site, there’s no installation required.  
 To view the blog:
 1. Download or clone this repository.
