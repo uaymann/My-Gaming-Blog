@@ -1,6 +1,6 @@
 # My-Gaming-Blog
 
-## 📖 About
+## About
 This is my first HTML-based website, created as part of my web design practice.  
 It’s a simple blog where I share my gaming experiences and write reviews of games I’ve played.  
 
@@ -11,12 +11,12 @@ To view the blog:
 2. Open the `home.html` (home page) file in any modern web browser.
 3. Navigate through the blog using the menu links provided.
 
-## 🎮 Purpose
+## Purpose
 - Practice building and structuring an HTML website.  
 - Experiment with layouts, styling, and navigation.  
 - Share my personal gaming experiences and reviews.  
 
-## 🛠️ Tech Used
+## Tech Used
 - HTML5  
 - Basic CSS (for styling)  
 
